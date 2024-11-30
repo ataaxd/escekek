@@ -1,1 +1,4 @@
-# bussid
+# Command :
+```
+pkg update && pkg upgrade
+```
