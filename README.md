@@ -9,11 +9,9 @@ cd escekek
 python3 ubhack.py
 ```
 ### Bahan :
-`
 1. Termux
 2. Http Canary
 3. BUSSID v3.6.1
-`
 
 ## `WARNING !!`
 Script Ini Masih Tahap Pengembangan Jika Kalian Menemukan Bug Segera Lapor!
