@@ -1,4 +1,4 @@
-# Command :
+## Command :
 ```
 pkg update && pkg upgrade
 pkg install git python3
