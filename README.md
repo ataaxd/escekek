@@ -1,3 +1,5 @@
+# SCRIPT GW
+
 ## Command :
 ```
 pkg update && pkg upgrade
@@ -6,3 +8,4 @@ git clone https://github.com/ataaxd/escekek
 cd escekek
 python3 ubvip.py
 ```
+### Bahan :
