@@ -13,3 +13,6 @@ python3 ubvip.py
 2. Http Canary
 3. Bussid v3.6.1
 4. Login Wajib Facebook
+
+## `WARNING !!`
+Script Ini Masih Tahap Pengembangan Jika Kalian Menemukan Bug Segera Lapor!
