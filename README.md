@@ -1,6 +1,6 @@
 # HACK UB BUSSID
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="image" src="https://private-user-images.githubusercontent.com/151380638/391297507-2c92de7b-0e14-423a-aa4f-bad355e6a89b.jpg">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/2c92de7b-0e14-423a-aa4f-bad355e6a89b">
 
 ### Command :
 ```
