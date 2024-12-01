@@ -17,4 +17,4 @@ python3 ubhack.py
 
 ## `WARNING !!`
 Script Ini Masih Tahap Pengembangan Jika Kalian Menemukan Bug Segera Lapor!
-<a href="https://wa.me/6282129004880" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<a href="https://wa.me/6283141610891?text=Lapor%20Pak" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
