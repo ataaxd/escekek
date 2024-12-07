@@ -7,8 +7,8 @@
 ```
 pkg update && pkg upgrade
 pkg install git python3
-git clone https://github.com/ataaxd/escekek
-cd escekek
+git clone https://github.com/ataaxd/ub
+cd ub
 python3 ubhack.py
 ```
 ### Bahan :
