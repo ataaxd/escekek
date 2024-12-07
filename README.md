@@ -2,7 +2,7 @@
 ## TAMPILAN MENU SCRIPT
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/faff407b-de36-4fb6-8855-e6292364bc59"><br>
 <br>
-## UNTUK USERNAME ADA DI GRUP WHATSAPP :
+### USERNAME ADA DI GRUP WHATSAPP :
 <a href="https://chat.whatsapp.com/D6Hmr6jFJ5G6WfRUxZp7Y2" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp%20Group&message=Click%20Here&color=#006400">
   
 ### Command :
